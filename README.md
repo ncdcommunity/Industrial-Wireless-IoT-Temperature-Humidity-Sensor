@@ -1,8 +1,10 @@
 # Industrial-Wireless-IoT-Temperature-Humidity-Sensor
 Wireless Temperature Humidity Sensor
-Long range wireless temp humidity sensor can be found over here https://store.ncd.io/product/industrial-long-range-wireless-temperature-humidity-sensor/
+Long range wireless IoT temperature humidity sensor can be found over here https://store.ncd.io/product/industrial-long-range-wireless-temperature-humidity-sensor/
 
-https://ncd.io/long-range-wireless-temperature-humidity-sensor/ Labview Driver for ncd.io wireless temperature humidity sensor this exe will work with ncd.io wireless temperature humidity sesnor
+https://ncd.io/long-range-wireless-temperature-humidity-sensor/ Labview Driver for ncd.io wireless temperature humidity sensor
+
+this Labview software will work with ncd.io wireless temperature humidity sesnor only
 
 To use this UI, you will need to install following drivers
 Install run time engine from here 64bit http://www.ni.com/download/labview-run-time-engine-2017/6821/en/
