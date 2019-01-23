@@ -15,6 +15,7 @@ To use this UI, you will need to install following drivers Install run time engi
 Install NI Visa Driver -- http://www.ni.com/download/ni-visa-run-time-engine/6647/en/
 
 Install Labview Run time serial driver http://www.ni.com/download/ni-serial-17.0/6613/en/
+http://www.ni.com/download/labview-run-time-engine-2017-sp1/7191/en/
 
 Getting strated guide for this product can be found over here
 https://ncd.io/long-range-iot-wireless-temperature-humidity-sensor-getting-started/
